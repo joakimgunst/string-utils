@@ -1,5 +1,5 @@
 {
   "name": "@jgunst/string-utils",
-  "version": "0.1.4",
-  "exports": "./mod.ts"
+  "version": "0.1.5",
+  "exports": "./index.ts"
 }
